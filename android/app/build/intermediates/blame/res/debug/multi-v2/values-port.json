@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/niwarthana/chatbot2/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/niwarthana/.gradle/caches/transforms-2/files-2.1/f8d20e201e22fa0dba067abb56561351/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
